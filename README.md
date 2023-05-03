@@ -1,2 +1,2 @@
 # Python-Programs
-thsi repo contains python lab assignments 
+this repo contains python lab assignments For RPOOP 
